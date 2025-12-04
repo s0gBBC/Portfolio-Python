@@ -254,5 +254,4 @@ sales_monitor.py
 
 Telegram: @kolay_doma\
 Email: nikolay.khamraev@yandex.ru\
-GitHub: [ссылка на ваш профиль]\
-Резюме: [ссылка на HH.ru]
+Резюме: [[ссылка на HH.ru](https://hh.ru/resume/ba585392ff0d2b65da0039ed1f38514d304671?from=share_ios)]
